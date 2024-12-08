@@ -1,7 +1,0 @@
-apache-airflow==2.10.3
-ccxt
-pandas
-apache-airflow-providers-postgres
-numpy
-streamlit
-plotly
